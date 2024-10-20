@@ -129,3 +129,47 @@ footer address {
 footer p {
     text-decoration: underline;
 }
+
+
+/* Commands For Incorrect-page */
+.Sect-3 img{
+    border: 25px groove red;
+    border-radius: 50%;
+}
+
+.Sect-3{
+    text-align: center;
+}
+
+.Sect-3 a{
+    color: rgb(151, 1, 1);
+    font-size: xx-large;
+}
+
+.Sect-3-think img{
+    width: 5%;
+    border-radius: 30%;
+    border: 5px groove red;
+}
+
+.FRST-Q-Incorrect{
+    color: rgb(180, 2, 2);
+    font-size: large;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+/* Commands For Game-Philosophy-2 */
+.Table-img-1 {
+    width: 10%;
+    height: 100px;
+}
+
+.Table-img-3 {
+    width: 10%;
+    height: 110px;
+}
+
+.Table-img-3:hover {
+    height: 50%;
+}
