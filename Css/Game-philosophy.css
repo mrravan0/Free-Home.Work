@@ -1,0 +1,88 @@
+header {
+    background-color: rgba(2, 104, 36, 0.274);
+    color: rgba(1, 73, 1, 0.973);
+    border-radius: 70%;
+    text-align: center;
+    text-decoration: underline;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header img {
+    width: 3%;
+    border: 2px groove green;
+    border-radius: 70%;
+}
+
+header a {
+    color: rgba(2, 104, 36, 0.274);
+}
+
+.Sect-1 img {
+    width: 35%;
+    border: 2px groove rgb(0, 59, 4);
+    border-radius: 50%;
+}
+
+.Sect-1 {
+    text-align: center;
+}
+
+.FRST-Q {
+    color: rgba(1, 73, 1, 0.973);
+    font-size: large;
+    font-size: xx-large;
+    text-decoration: underline;
+}
+
+.Sect-2 {
+    text-align: left;
+}
+
+.Sect-2-p1 {
+    font-size: xx-large !important;
+    text-align: center;
+    color: rgb(3, 97, 92);
+}
+
+.Sect-2-p1 img {
+    width: 5%;
+    border: 2px groove rgb(3, 97, 92);
+    border-radius: 50%;
+}
+
+
+table {
+    border-spacing: 0px;
+    padding: 0px;
+    width: 70%;
+    border: 6px groove rgb(3, 97, 92);
+    border-radius: 3%;
+    color: rgb(3, 97, 92);
+}
+
+table thead {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 10%;
+
+}
+
+table tbody {
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table tbody td:hover {
+    background-color: rgba(5, 97, 1, 0.11);
+}
+
+table tbody img:hover {
+    width: 15%;
+}
+
+table tbody img {
+    width: 8%;
+    border: 2px groove gray;
+    border-radius: 30%;
+}

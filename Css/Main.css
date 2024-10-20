@@ -1,0 +1,16 @@
+body {
+    background-color: rgba(1, 145, 1, 0.096);
+}
+
+nav {
+    text-align: center;
+    font-size: large;
+    background-color: rgba(5, 112, 41, 0.315);
+    border: 2px groove green;
+    border-radius: 70%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav a {
+    color: rgba(1, 73, 1, 0.973);
+}
