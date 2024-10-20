@@ -1,0 +1,13 @@
+.Table-img-1 {
+    width: 10%;
+    height: 100px;
+}
+
+.Table-img-3 {
+    width: 10%;
+    height: 110px;
+}
+
+.Table-img-3:hover {
+    height: 50%;
+}
