@@ -93,16 +93,19 @@ table tbody td a {
     text-decoration: none;
 }
 
-table thead th img{
+table thead th img {
     width: 5%;
     border: 2px groove rgba(3, 97, 92, 0.671);
     border-radius: 50%;
 }
 
-.fifty-Percent{
+.fifty-Percent {
     background-color: rgba(255, 0, 0, 0.24) !important;
 }
 
+.Incorrect-2 {
+    background-color: rgba(255, 0, 0, 0.24) !important;
+}
 
 aside {
     background-color: rgba(1, 87, 82, 0.281);
@@ -144,27 +147,27 @@ footer p {
 
 
 /* Commands For Incorrect-page */
-.Sect-3 img{
+.Sect-3 img {
     border: 25px groove red;
     border-radius: 50%;
 }
 
-.Sect-3{
+.Sect-3 {
     text-align: center;
 }
 
-.Sect-3 a{
+.Sect-3 a {
     color: rgb(151, 1, 1);
     font-size: xx-large;
 }
 
-.Sect-3-think img{
+.Sect-3-think img {
     width: 5%;
     border-radius: 30%;
     border: 5px groove red;
 }
 
-.FRST-Q-Incorrect{
+.FRST-Q-Incorrect {
     color: rgb(180, 2, 2);
     font-size: large;
     font-size: xx-large;
@@ -177,11 +180,6 @@ footer p {
     height: 100px;
 }
 
-.Table-img-3 {
+.Table-img-3{
     width: 10%;
-    height: 110px;
-}
-
-.Table-img-3:hover {
-    height: 50%;
 }
