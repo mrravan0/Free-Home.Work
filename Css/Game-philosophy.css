@@ -52,6 +52,7 @@ header a {
 }
 
 
+/* For-Table-Tag */
 table {
     border-spacing: 0px;
     padding: 0px;
@@ -92,6 +93,17 @@ table tbody td a {
     text-decoration: none;
 }
 
+table thead th img{
+    width: 5%;
+    border: 2px groove rgba(3, 97, 92, 0.671);
+    border-radius: 50%;
+}
+
+.fifty-Percent{
+    background-color: rgba(255, 0, 0, 0.24) !important;
+}
+
+
 aside {
     background-color: rgba(1, 87, 82, 0.281);
     border-radius: 3%;
@@ -117,7 +129,7 @@ footer a {
 }
 
 footer img {
-    width: 8%;
+    width: 6%;
     border: 2px groove rgb(104, 1, 1);
     border-radius: 50%;
 }
