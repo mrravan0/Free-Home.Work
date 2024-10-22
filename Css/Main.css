@@ -13,6 +13,7 @@ nav {
 
 nav a {
     color: rgba(1, 73, 1, 0.973);
+    text-decoration: none;
 }
 
 .incorrect-Body{
