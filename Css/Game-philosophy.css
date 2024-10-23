@@ -183,3 +183,31 @@ footer p {
 .Table-img-3{
     width: 10%;
 }
+
+/* Commands For Correct-page in the last */
+
+.Correct-Page{
+    text-align: center;
+}
+
+.Correct-Page section h2 a img{
+    width: 7% !important;
+    border: 3px groove rgb(2, 116, 2);
+    border-radius: 50%;
+}
+
+.Correct-Page-img-logo{
+    width: 35% !important;
+    border: 10px groove green;
+    border-radius: 50%;
+}
+
+.Correct-Page section h2{
+    color: rgb(2, 92, 2);
+    font-size: xx-large;
+}
+
+.Correct-Page-a-text{
+    color: rgb(2, 92, 2);
+    font-size: xx-large;
+}

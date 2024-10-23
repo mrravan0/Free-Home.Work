@@ -1,0 +1,83 @@
+body {
+    background-color: rgba(241, 202, 164, 0.11) !important;
+}
+
+/*For-First-section */
+.First-Section img {
+    width: 9%;
+    border: 2px groove rgb(139, 85, 4);
+    border-radius: 25%;
+}
+
+.First-Section h1 {
+    font-size: x-large;
+    color: rgb(167, 93, 8);
+}
+
+.First-Section p {
+    text-align: left;
+    color: rgb(92, 6, 6);
+    font-size: larger;
+}
+
+.First-Section i a {
+    color: rgb(167, 93, 8);
+}
+
+/* For-Second-Section*/
+.Second-Section img {
+    width: 10%;
+    border: 2px groove rgb(134, 134, 134);
+    border-radius: 25%;
+}
+
+.Second-Section h1 {
+    font-size: x-large;
+    color: rgb(134, 117, 98);
+}
+
+.Second-Section p {
+    text-align: left;
+    color: rgb(70, 60, 49);
+    font-size: larger;
+}
+
+.Second-Section i a {
+    color: rgb(70, 60, 49);
+}
+
+/* For Third-Section */
+
+.Third-Section img {
+    width: 11%;
+    border: 3px groove rgb(95, 22, 22);
+    border-radius: 25%;
+}
+
+.Third-Section h1 {
+    font-size: x-large;
+    color: maroon;
+}
+
+.Third-Section p {
+    text-align: left;
+    color: maroon;
+    font-size: larger;
+}
+
+.Third-Section i a {
+    color: maroon;
+}
+
+/* Here is I changed some options from Game-philosophy-css part */
+aside {
+    background-color: rgba(241, 202, 164, 0.308) !important;
+}
+
+aside img {
+    border-color: rgb(163, 100, 36) !important;
+}
+
+footer{
+    background-color: rgba(212, 168, 124, 0.925) !important;
+}
