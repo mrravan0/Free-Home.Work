@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(52, 50, 165, 0.11)    !important;
+}
+
+.Information-Table-img-1
+{
+    width: 35% !important;
+}
+.Information-Table-img{
+    width: 40% !important;
+    border: 5px groove rgba(22, 21, 68, 0.671) !important;
+    border-radius: 25%;
+}
+
+.Table-Column-1:hover{
+    background-image: url(../img/russia-flag.jpg);
+    background-position: center;
+    background-size: 99%;
+    background-repeat: no-repeat;
+}
+
+.Table-Column-2:hover{
+    background-image: url(../img/flag_germany.jpg);
+    background-position: center;
+    background-size: 99%;
+    background-repeat: no-repeat;
+}
+.Table-Column-3:hover{
+    background-image: url(../img/british-india.jpeg);
+    background-position: center;
+    background-size: 99%;
+    background-repeat: no-repeat;
+}
+.Table-Column-4:hover{
+    background-image: url(../img/greek-flag.jpg);
+    background-position: center;
+    background-size: 99%;
+    background-repeat: no-repeat;
+}
+
+table{
+    background-color: rgba(52, 50, 165, 0.11);
+}
+
+table :hover{
+    background-color: rgba(52, 50, 165, 0.103);
+}
+
+aside{
+    background-color: rgba(52, 50, 165, 0.26) !important;
+}
+
+aside img{
+    border-color: rgba(16, 16, 56, 0.548) !important;
+}
+
+footer{
+    background-color: rgba(39, 37, 126, 0.596) !important;
+}
