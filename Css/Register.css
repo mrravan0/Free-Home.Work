@@ -1,0 +1,98 @@
+body {
+    background-color: rgba(28, 188, 209, 0.13) !important;
+}
+
+main section form {
+    text-align: center;
+    font-size: larger;
+    border: 5px groove rgba(8, 77, 87, 0.979);
+    border-radius: 25%;
+    color: rgba(8, 43, 107, 0.979);
+}
+
+main section form label input:hover {
+    background-color: rgba(8, 43, 107, 0.089);
+    border-color: rgb(109, 3, 3);
+    color: rgb(153, 5, 5);
+}
+
+main section form p {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    color: rgba(7, 46, 51, 0.979);
+    font-weight: 500;
+}
+
+ main section form label input{
+    color: rgb(8, 43, 107);
+    border: 2px groove rgb(8, 43, 107);
+    border-radius: 20%;
+    font-size: medium;
+}
+
+main section form label select{
+    color: rgb(8, 43, 107);
+    border: 2px groove rgb(8, 43, 107);
+    border-radius: 20%; 
+}
+
+main section form textarea{
+    border: 3px groove rgb(8, 43, 107);
+    border-radius: 10%;
+    width: 35%;
+    height: 100px;
+}
+
+main section form textarea:hover{
+    background-color: rgba(8, 43, 107, 0.247);
+    color: rgb(153, 5, 5);
+}
+
+main section form textarea{
+    color: rgb(153, 5, 5);
+    text-decoration: none !important;
+    background-color: rgba(40, 106, 230, 0.068);
+}
+
+main section form p img{
+    width: 4%;
+    border: 3px groove rgb(8, 43, 107);
+    border-radius: 55%;
+}
+
+main section form p a{
+    color: rgb(8, 43, 107);
+}
+
+.Reset-Button{
+   height: 50px;
+   width: 10%;
+   background-color: rgba(40, 106, 230, 0.068);
+   border: 3px groove rgb(12, 44, 104);
+   border-radius: 50%;
+}
+
+.Sumbit-Button{
+   height: 50px;
+   width: 10%;
+   background-color: rgba(40, 106, 230, 0.068);
+   border: 3px groove rgb(12, 44, 104);
+   border-radius: 50%;
+}
+
+.Reset-Button:hover{
+    background-color: rgba(153, 5, 5, 0.459);
+}
+
+.Sumbit-Button:hover{
+    background-color: rgba(0, 128, 0, 0.459);
+}
+
+aside{
+    background-color: rgba(12, 102, 114, 0.37) !important;
+}
+
+footer{
+    background-color: rgba(7, 68, 77, 0.589) !important;
+}

@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(241, 202, 164, 0.11) !important;
+    background-color: rgba(238, 214, 191, 0.123) !important;
 }
 
 /*For-First-section */
@@ -16,7 +16,7 @@ body {
 
 .First-Section p {
     text-align: left;
-    color: rgb(92, 6, 6);
+    color: rgb(92, 6, 6);   
     font-size: larger;
 }
 
